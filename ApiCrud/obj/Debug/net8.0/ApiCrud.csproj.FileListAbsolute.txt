@@ -31,3 +31,4 @@ C:\Users\Pedro Damini\Desktop\estudos\C#\API\primeira_dotnetEF\API_Dot_Net\ApiCr
 C:\Users\Pedro Damini\Desktop\estudos\C#\API\primeira_dotnetEF\API_Dot_Net\ApiCrud\obj\Debug\net8.0\ApiCrud.pdb
 C:\Users\Pedro Damini\Desktop\estudos\C#\API\primeira_dotnetEF\API_Dot_Net\ApiCrud\obj\Debug\net8.0\ApiCrud.genruntimeconfig.cache
 C:\Users\Pedro Damini\Desktop\estudos\C#\API\primeira_dotnetEF\API_Dot_Net\ApiCrud\obj\Debug\net8.0\ref\ApiCrud.dll
+C:\Users\Pedro Damini\Desktop\estudos\C#\API\primeira_dotnetEF\API_Dot_Net\ApiCrud\obj\Debug\net8.0\ApiCrud.sourcelink.json
